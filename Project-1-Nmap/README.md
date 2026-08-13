@@ -163,10 +163,10 @@ These include host discovery, port scanning, service/version detection, OS detec
 ## 📄 Project Documentation
 
 **Final Report:**
-`Report/Nmap_Project_Final_Report.pdf`
+`Nmap_Project_Final_Report.pdf`
 
 **Presentation:**
-`Presentation/Nmap_Project_Presentation.pptx`
+`Nmap_Project_Presentation.pptx`
 
 ---
 
